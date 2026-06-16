@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "机器视觉/深度学习方法/目标检测与图像分割.md",
+            "file": "机器视觉/传统方法/传统特征检测.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
