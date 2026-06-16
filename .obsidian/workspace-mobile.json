@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "机器视觉/深度学习方法/图像分类.md",
+                "file": "机器视觉/传统方法/数字图像的概念与性质.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "图像分类"
+              "title": "数字图像的概念与性质"
             }
           }
         ]
@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "机器视觉/深度学习方法/图像分类.md",
+            "file": "机器视觉/传统方法/数字图像的概念与性质.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,11 +171,11 @@
   },
   "active": "b793226b4dc1711c",
   "lastOpenFiles": [
-    "机器视觉/深度学习方法/目标检测与图像分割.md",
+    "机器视觉/传统方法/传统特征检测.md",
     "机器视觉/深度学习方法/图像分类.md",
+    "机器视觉/深度学习方法/目标检测与图像分割.md",
     "机器视觉/深度学习方法/卷积神经网络.md",
     "机器视觉/传统方法/图像预处理.md",
-    "机器视觉/传统方法/传统特征检测.md",
     "机器视觉/传统方法/数字图像的概念与性质.md",
     "机器视觉/传统方法/二值图像处理.md",
     "欢迎.md",
